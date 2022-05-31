@@ -2,7 +2,7 @@
 
 These small extra efforts we make when coding is what makes the difference.
 
-  We are a small organisation aiming at improving our skills. So in this Organisation we will be developing some projects related with Coding(No Specific language). Due to the rapid and incredible advancing technoligies, a need of follow up is needed inorder to learn faster and grab the concept better. With all these in mind we decided to be working on projects for it is the best way and most efficient way to study.
+  We are a small organisation aiming at improving our skills. So in this Organisation we will be developing some projects related with Coding(No Specific language). Due to the rapid and incredible advancing technologies, a need of follow up is needed inorder to learn faster and grab the concept better. With all these in mind we decided to be working on projects for it is the best way and most efficient way to study.
 
 
 
